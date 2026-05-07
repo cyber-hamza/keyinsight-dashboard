@@ -1,0 +1,8 @@
+Package: keyboard-monitor
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Hamza <hamza@local>
+Description: Keyboard Analytics Dashboard
+ A local desktop tool for analyzing keyboard usage and statistics.

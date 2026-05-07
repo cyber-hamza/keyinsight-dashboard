@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Keyboard Monitor
+Exec=/usr/bin/keyboard-monitor
+Icon=keyboard-monitor
+Type=Application
+Categories=Utility;
+Terminal=false
+
